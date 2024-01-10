@@ -57,5 +57,3 @@ def image(words: str):
 
     return image_url
     # print(image_url)
-
-
